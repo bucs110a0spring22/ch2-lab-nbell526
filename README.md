@@ -8,7 +8,7 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < my program is able to successfully randomize my list of five integers, giving out a randomized result.>
+ < in part a, my program provides averages on the cost of class is. in part b, my program is able to successfully randomize my list of five integers, giving out a randomized result.>
 
 ## GRACE DAYS
 Grace days used for this assignment: < 0 >
@@ -16,10 +16,10 @@ Grace days used for this assignment: < 0 >
 Grace days remaining: < # >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < none >
 
 ## REFERENCES:
  < https://pynative.com/python-random-choice/ >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < none >
